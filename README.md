@@ -1,0 +1,1 @@
+# RecentlyClosedBuffer.nvim
